@@ -6,4 +6,4 @@ button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+At Kipu, we help companies harness the power of data and artificial intelligence to drive growth and innovation. With nearly two decades of combined experience leading successful data and AI initiatives, we provide practical, results-driven consulting that turns technological possibilities into business realities.

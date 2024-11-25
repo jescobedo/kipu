@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
-weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
+title: 'Your Trusted Partner in Data and AI'
+# weight: 1
+background: 'images/joel-filipe-VuwAfoHpxgs-unsplash.jpeg'
+# button: 'Our Work'
+# buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+At Kipu, we help companies unlock the potential of data and AI to drive innovation, improve decision-making, and achieve sustainable growth. With over two decades of combined experience, our team of experts provides strategic consulting and advisory services tailored to your specific needs.
