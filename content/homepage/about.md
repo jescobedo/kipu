@@ -1,9 +1,10 @@
 ---
-title: 'Our Difference'
+title: 'Proven Expertise, Real-World Impact'
 weight: 2
 background: ''
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+At Kipu, we bring a unique blend of deep industry experience and entrepreneurial spirit to deliver exceptional data-driven solutions. Our team is comprised of seasoned professionals who have successfully applied cutting-edge data science and machine learning techniques to solve complex business problems at scale.
+
